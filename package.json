@@ -1,0 +1,23 @@
+{
+  "name": "js-tamagotchi-fox-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gityouser/js-tamagotchi-fox-game.git"
+  },
+  "author": "Andrei Constantinescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gityouser/js-tamagotchi-fox-game/issues"
+  },
+  "homepage": "https://github.com/gityouser/js-tamagotchi-fox-game#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
