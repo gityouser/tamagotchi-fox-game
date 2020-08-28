@@ -7,6 +7,9 @@ const gameState = {
 
     return this.clock
   },
+  handleUserAction(icon) {
+    console.log(icon)
+  },
 }
 
 export default gameState
